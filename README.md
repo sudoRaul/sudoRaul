@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Raúl Rodríguez 👋 </b></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Raul+Rodriguez+Fernandez+&hearts;++;Front-End+Developer,;Back-End+Developer,;Love+to+learn+new+technologies"></a>
+  <a href="https://github.com/sudoRaul"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Raul+Rodriguez+Fernandez+&hearts;++;Front-End+Developer,;Back-End+Developer,;Love+to+learn+new+technologies"></a>
 </p>
 
 
@@ -88,31 +88,16 @@
 <br>
 <div align='left'>
 
-<ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raúl%20Rodríguez-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-rodr%C3%ADguez-fern%C3%A1ndez-393b05339/)  
+<br>
 
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+[![Instagram](https://img.shields.io/badge/Instagram-Raúl%20Rodríguez-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulrf_14/) 
 
 <br>
 
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
+[![Gmail](https://img.shields.io/badge/Gmail-Raúl%20Rodríguez-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrodfer05@gmail.com)
 
-<br>
 
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
 <br>
