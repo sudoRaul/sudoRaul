@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer 👨‍💻
+- A passionate Self-taught Full-Stack developer 👨‍💻
 - Currently learning Web Development by Self 🧑‍🏫
 - An active person with news technologies 🌐
 
@@ -114,4 +114,4 @@
 
 Credit: [Raúl Rodríguez](https://github.com/sudoRaul)
 
-Last Edited on: 8/03/2025
+Last Edited on: 21/05/2025
