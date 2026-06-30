@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Raúl Rodríguez 👋 </b></h1>
 
 <p align="center">
-  <a href="https://github.com/sudoRaul"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Raul+Rodriguez+Fernandez+&hearts;++;Front-End+Developer,;Back-End+Developer,;Love+to+learn+new+technologies"></a>
+  <a href="https://github.com/sudoRaul"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Raul+Rodriguez+Fernandez+&hearts;++;Full-Stack+Developer;Specialized+in+Laravel+and+Vue.js;Love+to+learn+new+technologies"></a>
 </p>
 
 
@@ -10,9 +10,10 @@
 
 <br>
 
-- A passionate Self-taught Full-Stack developer 👨‍💻
-- Currently learning Web Development by Self 🧑‍🏫
-- An active person with news technologies 🌐
+- 👨‍💻 Higher Technician in Web Application Development and Full-Stack Developer.
+- 🚀 I currently work on the development and maintenance of web applications in production environments, contributing to both solution design and the implementation of new features.
+- 📚 I consider continuous learning a fundamental part of this profession, which is why I constantly strive to expand my knowledge and explore new tools and methodologies.
+- 🤝 I highly value teamwork, effective communication, and the continuous pursuit of the best solution for every challenge.
 
 <br><br>
 
