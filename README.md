@@ -138,16 +138,11 @@ I'm a **Full-Stack Developer** and **Higher Technician in Web Application Develo
 
 ## 📊 GitHub in numbers
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudoRaul&show_icons=true&count_private=true&hide_border=true&theme=react&icon_color=22D3EE&title_color=22D3EE" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoRaul&hide_border=true&theme=react&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak" />
-
-<br>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoRaul&layout=compact&hide_border=true&langs_count=8&theme=react&title_color=22D3EE" alt="Top languages" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/sudoRaul?tab=followers"><img src="https://img.shields.io/github/followers/sudoRaul?style=for-the-badge&logo=github&label=Followers&color=22D3EE&labelColor=0d1117" alt="Followers" /></a>
+  <a href="https://github.com/sudoRaul/LibrOpinion/stargazers"><img src="https://img.shields.io/github/stars/sudoRaul/LibrOpinion?style=for-the-badge&logo=github&label=librOpinion%20stars&color=22D3EE&labelColor=0d1117" alt="librOpinion stars" /></a>
+  <a href="https://github.com/sudoRaul/LibrOpinion/commits"><img src="https://img.shields.io/github/last-commit/sudoRaul/LibrOpinion?style=for-the-badge&logo=git&label=Last%20commit&color=22D3EE&labelColor=0d1117" alt="Last commit" /></a>
+</p>
 
 <br>
 
@@ -155,19 +150,6 @@ I'm a **Full-Stack Developer** and **Higher Technician in Web Application Develo
 
 [![Raúl's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudoRaul&theme=react-dark&hide_border=true&color=22D3EE&line=22D3EE&point=ffffff)](https://github.com/sudoRaul)
 
-</div>
-
-<br>
-
-<!-- Contribution snake — needs the workflow in .github/workflows/snake.yml (instructions below) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sudoRaul/sudoRaul/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudoRaul&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <br>
