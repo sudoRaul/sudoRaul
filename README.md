@@ -57,6 +57,21 @@ I'm a **Full-Stack Developer** and **Higher Technician in Web Application Develo
 
 <br>
 
+**[rag-incidencias](https://github.com/sudoRaul/rag-incidencias)** — an end-to-end **RAG (Retrieval-Augmented Generation)** system built in Laravel. Content is turned into embeddings, stored in PostgreSQL with pgvector and retrieved through semantic search, so a local LLM can answer questions grounded in its own knowledge base — all on a **hexagonal architecture**.
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hexagonal_Architecture-4B5563?style=flat-square&logo=hexlet&logoColor=white" alt="Hexagonal Architecture" />
+</p>
+
+`Embeddings (nomic-embed-text)` · `Vector search (pgvector)` · `Local LLM (Llama 3.2 3B)` · `Ports & adapters` · `No paid APIs`
+
+<br>
+
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -69,16 +84,18 @@ I'm a **Full-Stack Developer** and **Higher Technician in Web Application Develo
 
 **Front-End**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
     <td valign="top" width="33%">
@@ -87,15 +104,20 @@ I'm a **Full-Stack Developer** and **Higher Technician in Web Application Develo
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Architecture & APIs**
 
 ![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-4B5563?style=flat-square&logo=hexlet&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+**Applied AI**
+
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
     <td valign="top" width="33%">
@@ -165,7 +187,6 @@ I'm always open to interesting projects, teams and conversations. Feel free to r
 <p>
   <a href="https://raulrf.netlify.app/"><img src="https://img.shields.io/badge/My%20Dashboard-1E3A8A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Dashboard" /></a>
   <a href="https://www.linkedin.com/in/ra%C3%BAl-rodr%C3%ADguez-fern%C3%A1ndez-393b05339/"><img src="https://img.shields.io/badge/LinkedIn-Ra%C3%BAl%20Rodr%C3%ADguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/raulrf_14/"><img src="https://img.shields.io/badge/Instagram-Ra%C3%BAl%20Rodr%C3%ADguez-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:rrodfer05@gmail.com"><img src="https://img.shields.io/badge/Gmail-rrodfer05-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
