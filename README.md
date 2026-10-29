@@ -57,7 +57,7 @@ I'm a **Full-Stack Developer** and **Higher Technician in Web Application Develo
 
 <br>
 
-**[rag-incidencias](https://github.com/sudoRaul/rag-incidencias)** — an end-to-end **RAG (Retrieval-Augmented Generation)** system built in Laravel. Content is turned into embeddings, stored in PostgreSQL with pgvector and retrieved through semantic search, so a local LLM can answer questions grounded in its own knowledge base — all on a **hexagonal architecture**.
+**rag-incidencias** — an end-to-end **RAG (Retrieval-Augmented Generation)** system built in Laravel. Content is turned into embeddings, stored in PostgreSQL with pgvector and retrieved through semantic search, so a local LLM can answer questions grounded in its own knowledge base — all on a **hexagonal architecture**.
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
