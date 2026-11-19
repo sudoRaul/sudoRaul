@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://raulrf.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ra%C3%BAl-rodr%C3%ADguez-fern%C3%A1ndez-393b05339/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/raulrodriguezfernandez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rrodfer05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=sudoRaul&label=Profile%20views&color=22D3EE&style=for-the-badge" alt="Profile views" />
 </p>
@@ -186,7 +186,7 @@ I'm always open to interesting projects, teams and conversations. Feel free to r
 
 <p>
   <a href="https://raulrf.netlify.app/"><img src="https://img.shields.io/badge/My%20Dashboard-1E3A8A?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Dashboard" /></a>
-  <a href="https://www.linkedin.com/in/ra%C3%BAl-rodr%C3%ADguez-fern%C3%A1ndez-393b05339/"><img src="https://img.shields.io/badge/LinkedIn-Ra%C3%BAl%20Rodr%C3%ADguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/raulrodriguezfernandez/"><img src="https://img.shields.io/badge/LinkedIn-Ra%C3%BAl%20Rodr%C3%ADguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rrodfer05@gmail.com"><img src="https://img.shields.io/badge/Gmail-rrodfer05-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
